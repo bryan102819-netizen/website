@@ -1,0 +1,30 @@
+#test1 {
+  width: 100px;
+  hight: 100px;
+  border: 5px;
+  border-color: blue;
+  border-style: solid;
+}
+
+#test2{
+  width: 100px;
+  hight: 100px;
+  border: 5px;
+  border-color: red;
+  border-style: solid;
+}
+  
+
+#test3{
+  width: 100px;
+  hight: 100px;
+  border: 5px;
+  border-color: green;
+  border-style: solid;
+}
+
+
+  
+
+
+
